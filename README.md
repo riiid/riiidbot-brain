@@ -1,6 +1,6 @@
 # riiidbot-brain
 
-A tiny firebase brain for [riidbot](https://github.com/riiid/riiidbot).
+A tiny firebase brain for [riiidbot](https://github.com/riiid/riiidbot).
 
 ## Install
 
