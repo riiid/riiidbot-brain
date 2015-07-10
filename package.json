@@ -1,0 +1,26 @@
+{
+  "name": "riiidbot-brain",
+  "version": "0.1.0",
+  "description": "A tiny brain for riiidbot scripts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "hubot"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/riiid/riiidbot-brain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/riii/riiidbot-brain/issues"
+  },
+  "author": "chitacan",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^2.2.0",
+    "firebase-token-generator": "^2.0.0"
+  }
+}
